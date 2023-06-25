@@ -1,0 +1,58 @@
+.navbar {
+    background-color: #001842;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding: 2rem 10px;
+}
+
+.logoSection {
+    display: flex;
+    margin-right: auto;
+}
+
+.logoSection h1 {
+    align-self: center;
+}
+
+.navbar a {
+    margin: 0 12.5px;
+}
+
+.btn {
+    background: rgb(46, 89, 182);
+    color: #f2f2f2;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 0.5rem;
+    cursor: pointer;
+}
+
+@media screen and (max-width:600px) {
+    .btn_container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logoSection {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-right: auto;
+    }
+
+    .logoSection h1 {
+        font-size: 0.95rem;
+    }
+
+    .logoSection img {
+        height: 30px;
+    }
+
+    .navbar a {
+        margin-top: 1rem;
+    }
+}

@@ -1,0 +1,61 @@
+.list_container{
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+}
+
+.list_h2{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 2rem;
+    width: 50%; 
+}
+
+.form input{
+    margin: 0.5rem 0;
+    padding: 0.75rem 0;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    border: 2px solid #777;
+}
+
+.btn{
+    width: 50%;
+    cursor: pointer;
+    margin: 1rem auto;
+    margin-top: 1.5rem;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(18, 34, 204);
+    border: none;
+    color: #fff;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(48, 64, 237);
+    color: hsl(0, 0%, 100%);
+}
+
+
+@media screen and (max-width: 600px) {
+
+.form{
+    width: 100%; 
+  }
+
+  .form input{
+    font-size: 1.05rem;
+    }
+
+    .list_container{
+        height: 100%;
+    }
+}
