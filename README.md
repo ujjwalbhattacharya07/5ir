@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Problem Statement
+Traditional crowdfunding platforms lack transparency, trust, and accessibility. This hinders the potential for genuine projects to receive adequate funding and for contributors to have confidence in their investments. There is a need for a solution that leverages the power of blockchain technology to provide a secure and transparent crowdfunding ecosystem, ensuring fair distribution of funds and fostering trust between project creators and backers.
+
+
+
+
+## Challenges we ran into
+
+1.Technical complexity
+2. Scalability
+3. User adoption
+4. Regulatory compliance
+5. Integration with existing systems
+
+## Tech stacks used
+
+1. 5ire Blockchain Network
+2. Smart Contracts (Solidity)
+3. Web Development (HTML, CSS, JavaScript, React/Next.js)
+
+
 
 ## Getting Started
 
