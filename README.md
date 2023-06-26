@@ -1,6 +1,9 @@
 ## Problem Statement
 Traditional crowdfunding platforms lack transparency, trust, and accessibility. This hinders the potential for genuine projects to receive adequate funding and for contributors to have confidence in their investments. There is a need for a solution that leverages the power of blockchain technology to provide a secure and transparent crowdfunding ecosystem, ensuring fair distribution of funds and fostering trust between project creators and backers.
 
+## About the Project:
+The problem solved by this project is the lack of transparency, trust, and accessibility in traditional crowdfunding platforms. By utilizing the 5ire blockchain network, the project aims to provide a secure and transparent crowdfunding ecosystem where participants can confidently contribute to campaigns, verify transactions, and track the allocation of funds, ensuring that their contributions are utilized as intended.
+
 
 
 
