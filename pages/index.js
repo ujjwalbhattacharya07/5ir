@@ -13,6 +13,7 @@ function Home() {
           The new crowdfunding solution of web3
         </h2>
         <p>Create campaigns for your noble causes, raise funding for your projects or tell your story with ease campaigning on our platform</p>
+   <p>Developed by Team OneVector</p>
         <Link href="/campaigns">
           <button className={styles.btn}>
             Campaigns
